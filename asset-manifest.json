@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/todolist_app/static/css/main.88323d19.css",
-    "main.js": "/todolist_app/static/js/main.943c98fa.js",
+    "main.js": "/todolist_app/static/js/main.4150c5f6.js",
     "static/js/787.e1c90ab9.chunk.js": "/todolist_app/static/js/787.e1c90ab9.chunk.js",
     "static/media/me-icon.svg": "/todolist_app/static/media/me-icon.462c889942f2e11a296faecfa896ed2d.svg",
     "static/media/whitemode-icon.svg": "/todolist_app/static/media/whitemode-icon.e9d8704ba25ad094934010d524063ad5.svg",
@@ -19,11 +19,11 @@
     "static/media/left-icon.svg": "/todolist_app/static/media/left-icon.8d0d5b9b78f30f450d69097375931b06.svg",
     "static/media/right-icon.svg": "/todolist_app/static/media/right-icon.4b8e6a709422485efe95d03695b2db1e.svg",
     "main.88323d19.css.map": "/todolist_app/static/css/main.88323d19.css.map",
-    "main.943c98fa.js.map": "/todolist_app/static/js/main.943c98fa.js.map",
+    "main.4150c5f6.js.map": "/todolist_app/static/js/main.4150c5f6.js.map",
     "787.e1c90ab9.chunk.js.map": "/todolist_app/static/js/787.e1c90ab9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88323d19.css",
-    "static/js/main.943c98fa.js"
+    "static/js/main.4150c5f6.js"
   ]
 }

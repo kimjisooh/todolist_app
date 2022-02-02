@@ -12,15 +12,12 @@ body {
   height: 100%;
   width: 220px;
   background-color: #4d4d4d;
-  border-top-left-radius: 16px;
-  border-bottom-left-radius: 16px;
 }
 
 .profile {
   width: 100%;
   height: 310px;
   background-color: #4d4d4d;
-  border-top-left-radius: 16px;
 }
 
 
@@ -47,7 +44,7 @@ body {
   display: flex;
   left: 0%;
   top: 0%;
-  transform: translate(-270%, -800%);
+  transform: translate(-270%, -850%);
   width: 30px;
   cursor: pointer;
 }

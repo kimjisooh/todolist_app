@@ -17,7 +17,7 @@ const TodoHeadBlock = styled.div`
 
   .left-arrow {
     position: absolute;
-    top: 14%;
+    top: 18%;
     left: 5%;
     width: 22px;
     cursor: pointer;
@@ -25,7 +25,7 @@ const TodoHeadBlock = styled.div`
 
   .right-arrow {
     position: absolute;
-    top: 14%;
+    top: 18%;
     right: 5%;
     width: 22px;
     cursor: pointer;

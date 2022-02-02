@@ -8,7 +8,6 @@ import { ReactComponent as Goal } from "../assets/goal-icon.svg";
 import { ReactComponent as Setting } from "../assets/setting-icon.svg";
 import { ReactComponent as Imoji } from "../assets/imoji-icon.svg";
 import { ReactComponent as Keep } from "../assets/keep-icon.svg";
-import styled from 'styled-components';
 
 function Sidebar() {
   return (
@@ -22,7 +21,7 @@ function Sidebar() {
             <li 
               key={key} 
               className='row'
-              id={window.location.patothname == val.link ? "active" : ""}
+              id={window.location.patothname = val.link ? "active" : ""}
               onClick={() => {
                 window.location.pathname = val.link
               }}

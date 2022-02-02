@@ -1,0 +1,247 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.Sidebar {
+  z-index: 6;
+  position: absolute;
+  right: 0%;
+  height: 100%;
+  width: 220px;
+  background-color: #4d4d4d;
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.profile {
+  width: 100%;
+  height: 310px;
+  background-color: #4d4d4d;
+  border-top-left-radius: 16px;
+}
+
+
+.me-icon {
+  position: absolute;
+  width: 160px;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.user-name {
+  position: absolute;
+  top: 24%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  color: #eae9e4;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.close-btn {
+  /* position: absolute; */
+  display: flex;
+  left: 0%;
+  top: 0%;
+  transform: translate(-270%, -800%);
+  width: 30px;
+  cursor: pointer;
+}
+
+.SidebarList {
+  position: absolute;
+  padding: 0;
+  top: 35%;
+  height: auto;
+  width: 100%;
+}
+
+.SidebarList .row {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 0px;
+  margin: 0;
+  margin-top: 10px;
+  /* border-top: 2px solid #eae9e4; */
+  color: #eae9e4;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+/* .SidebarList .row:not(:last-child) {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 60px;
+  margin: 0;
+  border-bottom: 3px solid #eae9e4;
+  color: #eae9e4;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+.SidebarList .row:last-child {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 60px;
+  color: #eae9e4;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+} */
+
+/* .SidebarList .row:not(:last-child):hover {
+  cursor: pointer;
+  background: #eae9e4;
+  color: #3c3c3c;
+}
+
+.SidebarList .row #active {
+  background: #eae9e4;
+  color: #3c3c3c;
+} */
+
+/* .row #icon {
+  flex: 30%;
+  display: grid;
+  place-items: center;
+}
+
+.row #title {
+  flex: 70%;
+} */
+
+.menu {
+  width: 100%;
+  position: absolute;
+  top: 44.4%;
+}
+
+.menu-item {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 65px;
+  list-style: none;
+  margin: 0;
+  color: #eae9e4;
+  /* justify-content: center; */
+  align-items: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/* .menu-item:first-child {
+  border-top: 1px solid #eae9e4;
+} */
+
+.menu-item:hover {
+  cursor: pointer;
+  background: #707070;
+}
+
+.calendar {
+  padding-right: 12px;
+  padding-left: 14px;
+  padding-bottom: 0.5px;
+  width: 32px;
+  cursor: pointer;
+}
+
+.goal {
+  padding-right: 12px;
+  padding-left: 14px;
+  padding-top: 3px;
+  width: 32px;
+  cursor: pointer;
+}
+
+.keep {
+  padding-right: 12px;
+  padding-left: 13.5px;
+  padding-bottom: 1.5px;
+  width: 32px;
+  cursor: pointer;
+}
+
+/* .setting {
+  position: absolute;
+  padding-right: 12px;
+  padding-left: 15px;
+  width: 30px;
+  cursor: pointer;
+} */
+
+.setting-background {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 4.5%;
+  top: 0%;
+  transform: translate(-50%,-40%);
+  /* background-color: #f1ba79; */
+  background-color: #E5E5E5;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.setting {
+  width: 35px;
+}
+
+.sunmode-background {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 22%;
+  top: 0%;
+  transform: translate(-50%,-40%);
+  background-color: #E5E5E5;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.sunmode {
+  width: 28px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.imoji-background {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  top: 0%;
+  transform: translate(-50%,-40%);
+  background-color: #E5E5E5;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.imoji {
+  width: 30px;
+}

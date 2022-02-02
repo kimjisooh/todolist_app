@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/todolist_app/static/css/main.f194ea10.css",
-    "main.js": "/todolist_app/static/js/main.86cefc09.js",
+    "main.css": "/todolist_app/static/css/main.28e720bf.css",
+    "main.js": "/todolist_app/static/js/main.dcb1eddd.js",
     "static/js/787.e1c90ab9.chunk.js": "/todolist_app/static/js/787.e1c90ab9.chunk.js",
-    "static/media/me-icon.svg": "/todolist_app/static/media/me-icon.462c889942f2e11a296faecfa896ed2d.svg",
-    "static/media/whitemode-icon.svg": "/todolist_app/static/media/whitemode-icon.e998b52478fd5cc6582a4ff886527aa8.svg",
+    "static/media/me-icon.svg": "/todolist_app/static/media/me-icon.9b4940e5b0f957452054d6506ae2c8c5.svg",
     "static/media/bin-icon.svg": "/todolist_app/static/media/bin-icon.06377ebae66b91889dc179f5eb937554.svg",
     "static/media/goal-icon.svg": "/todolist_app/static/media/goal-icon.e15bb38ff359bbd944655414f0815415.svg",
     "static/media/calendar-icon.svg": "/todolist_app/static/media/calendar-icon.732ac5bf4eedc6a34872ef5b2cd5c875.svg",
+    "static/media/whitemode-icon.svg": "/todolist_app/static/media/whitemode-icon.d2ec3351b014a11659606e8952e0d933.svg",
     "static/media/keep-icon.svg": "/todolist_app/static/media/keep-icon.95f8624953b58a6fc4b4ac9a4178edf8.svg",
     "static/media/setting-icon.svg": "/todolist_app/static/media/setting-icon.e66c78772a53f80aa0f1c26aba181201.svg",
     "static/media/add-icon.svg": "/todolist_app/static/media/add-icon.f94d71c637433bb71c3a6d98a740df4f.svg",
@@ -18,12 +18,12 @@
     "static/media/close-icon.svg": "/todolist_app/static/media/close-icon.0fb16ccfdb3f6eef17d9d367b47e87e2.svg",
     "static/media/left-icon.svg": "/todolist_app/static/media/left-icon.8d0d5b9b78f30f450d69097375931b06.svg",
     "static/media/right-icon.svg": "/todolist_app/static/media/right-icon.4b8e6a709422485efe95d03695b2db1e.svg",
-    "main.f194ea10.css.map": "/todolist_app/static/css/main.f194ea10.css.map",
-    "main.86cefc09.js.map": "/todolist_app/static/js/main.86cefc09.js.map",
+    "main.28e720bf.css.map": "/todolist_app/static/css/main.28e720bf.css.map",
+    "main.dcb1eddd.js.map": "/todolist_app/static/js/main.dcb1eddd.js.map",
     "787.e1c90ab9.chunk.js.map": "/todolist_app/static/js/787.e1c90ab9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f194ea10.css",
-    "static/js/main.86cefc09.js"
+    "static/css/main.28e720bf.css",
+    "static/js/main.dcb1eddd.js"
   ]
 }
